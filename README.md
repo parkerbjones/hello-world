@@ -1,2 +1,5 @@
 # hello-world
-First git repo!
+
+Yo!
+
+This is PJ's first commit on git.
